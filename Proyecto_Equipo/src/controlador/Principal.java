@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Pero que esta pasando Chavalada");
 		System.out.println(" sexo");
+		System.out.println("Si");
 	}
 
 }
