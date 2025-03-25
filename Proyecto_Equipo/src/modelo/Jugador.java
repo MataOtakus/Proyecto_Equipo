@@ -2,5 +2,17 @@ package modelo;
 
 public class Jugador {
 	private String nacionalidad;
-	public enum Posicion{Delantero}
+	private int edad;
+	private String apenom;
+	
+	
+	public enum Posicion{
+		Delantero,
+		Portero,
+		Defensa,
+		MedioCampo,
+		LateralIzquierdo,
+		LateralDerecho
+		}
+	
 }
